@@ -1,2 +1,2 @@
 # minds
-laLex templates and logos.
+Latex templates and logos.
