@@ -1,2 +1,3 @@
-# minds
-Latex templates and logos.
+# Minds Lab
+
+
